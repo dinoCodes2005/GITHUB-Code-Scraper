@@ -4,12 +4,14 @@ GITHUB Code Scrapper -- Using Python
 📂 Installation & Setup
 
 ```pip install requests beautifulsoup4 python-dotenv```
+
 Make a new .env file 
 
 Get your GITHUB API Token from developer settings with full repo control
 ```GITHUB_TOKEN=<your_token>```
 
 Change the parameters as per your need 
+
 ```
 #edit this as per your choice
 repo_owner = "your_name"
