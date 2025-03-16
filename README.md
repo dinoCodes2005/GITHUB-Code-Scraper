@@ -12,7 +12,7 @@ Get your GITHUB API Token from developer settings with full repo control
 
 Change the parameters as per your need 
 
-```
+```python
 #edit this as per your choice
 repo_owner = "your_name"
 repo_name = "your_repo_name"
