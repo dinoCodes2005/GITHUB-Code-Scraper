@@ -8,6 +8,7 @@ GITHUB Code Scrapper -- Using Python
 Make a new .env file 
 
 Get your GITHUB API Token from developer settings with full repo control
+
 ```GITHUB_TOKEN=<your_token>```
 
 Change the parameters as per your need 
